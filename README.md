@@ -1,5 +1,8 @@
 ### Hi there 👋 My name is Angelos Papoutsis. I am a phd student at the Univeristy of Ioannina in Greece
 
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!--
 **angelospapoutsis/angelospapoutsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
