@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/AngelosPapoutsis/<OWNER>/<OWNER>/readme_header.png "Header")]
 
 ### Hi there 👋 My name is Angelos Papoutsis. I am a phd student at the Univeristy of Ioannina in Greece
 
