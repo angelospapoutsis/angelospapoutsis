@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Angelos Papoutsis
+### Hi there 👋 My name is Angelos Papoutsis. I am a phd student at the Univeristy of Ioannina in Greece
 
 <!--
 **angelospapoutsis/angelospapoutsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
